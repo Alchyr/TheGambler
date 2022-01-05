@@ -1,0 +1,131 @@
+{
+  "gambler:PlayingCard": {
+    "TEXT": [
+      "Playing",
+      "Playing Card",
+      "#yPlaying #yCards are added to your #yHand when played. After you play your #yHand, they go to their original destination.",
+      "Not enough Gold to afford this."
+    ]
+  },
+  "gambler:PlayingCardUse": {
+    "TEXT": [
+      "My Hand is full."
+    ]
+  },
+  "gambler:HandChangeScreen": {
+    "TEXT": [
+      "Choose a Card to Change ",
+      "the Suit",
+      "the Value",
+      "Cancel",
+      "Choose Replacement"
+    ]
+  },
+  "gambler:DrawToPokerHand": {
+    "TEXT": [
+      "Choose a Card to Add to Your Hand.",
+      "My Hand is full."
+    ]
+  },
+  "gambler:DieReward": {
+    "TEXT": [
+      "Roll the Die",
+      "1: Lose 1 Max HP",
+      "2: Lose 2 HP",
+      "3: Gain 15 Gold",
+      "4: Heal 4 HP",
+      "5: Upgrade a random card",
+      "6: Gain 3 Max HP",
+      "1: Energy each turn",
+      "2: 3 additional cards",
+      "3: Gain 30 Gold",
+      "4: Heal 12 HP",
+      "5: Upgrade a card",
+      "6: Gain 6 Max HP"
+    ]
+  },
+  "gambler:LinkedReward": {
+    "TEXT": [
+      "Reroll the Die"
+    ]
+  },
+  "gambler:Study": {
+    "TEXT": [
+      "Study",
+      "Start battles with +1 Dexterity. (Up to 3)",
+      ""
+    ]
+  },
+  "gambler:Showdown": {
+    "TEXT": [
+      "High Card",
+      "One Pair",
+      "Three of a Kind",
+      "Two Pair",
+      "Straight",
+      "Flush",
+      "Full House",
+      "Four of a Kind",
+      "Straight Flush",
+      "Royal Flush",
+      "Five of a Kind"
+    ]
+  },
+  "gambler:ShowdownDoubleDamage": {
+    "TEXT": [
+      "Deals ",
+      " times as much damage."
+    ]
+  },
+  "gambler:ShowdownVulnerable": {
+    "TEXT": [
+      "Apply ",
+      " Vulnerable to ALL enemies."
+    ]
+  },
+  "gambler:ShowdownWeak": {
+    "TEXT": [
+      "Apply ",
+      " Weak to ALL enemies."
+    ]
+  },
+  "gambler:ShowdownAnte": {
+    "TEXT": [
+      "Apply ",
+      " gambler:Ante to ALL enemies."
+    ]
+  },
+  "gambler:ShowdownStrength": {
+    "TEXT": [
+      "Gain ",
+      " Strength."
+    ]
+  },
+  "gambler:ShowdownDexterity": {
+    "TEXT": [
+      "Gain ",
+      " Dexterity."
+    ]
+  },
+  "gambler:ShowdownGold": {
+    "TEXT": [
+      "Gain ",
+      " Gold."
+    ]
+  },
+  "gambler:ShowdownDraw": {
+    "TEXT": [
+      "Draw ",
+      " card.",
+      " cards."
+    ]
+  },
+  "gambler:ShowdownEnergy": {
+    "TEXT": [
+      "Gain",
+      "",
+      " [E]",
+      "."
+    ]
+  }
+}

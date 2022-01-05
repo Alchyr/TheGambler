@@ -1,0 +1,295 @@
+{
+  "gambler:Showdown": {
+    "NAME": "Showdown",
+    "DESCRIPTION": "It's time to show your gambler:Hand.",
+    "EXTENDED_DESCRIPTION": [
+      "Deal !D! damage to ALL enemies.",
+      "No effect."
+    ]
+  },
+  "gambler:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage.",
+    "EXTENDED_DESCRIPTION": [
+      "Deal !D! damage."
+    ]
+  },
+  "gambler:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block.",
+    "EXTENDED_DESCRIPTION": [
+      "Gain !B! Block."
+    ]
+  },
+  "gambler:RedJoker": {
+    "NAME": "Red Joker",
+    "DESCRIPTION": "Deal !D! damage. NL Can be any card in a gambler:Hand."
+  },
+  "gambler:BlackJoker": {
+    "NAME": "Black Joker",
+    "DESCRIPTION": "Gain !B! Block. NL Can be any card in a gambler:Hand."
+  },
+  "gambler:H2": {
+    "NAME": "2 of Hearts",
+    "DESCRIPTION": "Deal !D! damage. NL gambler:Showdown: Apply (1/2) Vulnerable to ALL enemies."
+  },
+  "gambler:D2": {
+    "NAME": "2 of Diamonds",
+    "DESCRIPTION": "Costs !GMB_GC! Gold. NL Put a card from your discard pile into your hand. NL gambler:Showdown: Apply (1/2) Weak to ALL enemies."
+  },
+  "gambler:C2": {
+    "NAME": "2 of Clubs",
+    "DESCRIPTION": "Gain !B! Block. NL gambler:Showdown: Apply (1/2) Vulnerable to ALL enemies."
+  },
+  "gambler:S2": {
+    "NAME": "2 of Spades",
+    "DESCRIPTION": "Gain !B! Block. NL Draw 1 card. NL gambler:Showdown: Apply (1/2) Weak to ALL enemies."
+  },
+  "gambler:H3": {
+    "NAME": "3 of Hearts",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! gambler:Ante. NL gambler:Showdown: Apply (1/2) Vulnerable to ALL enemies."
+  },
+  "gambler:D3": {
+    "NAME": "3 of Diamonds",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL gambler:Showdown: Apply (1/2) Weak to ALL enemies."
+  },
+  "gambler:C3": {
+    "NAME": "3 of Clubs",
+    "DESCRIPTION": "Gain !B! Block. NL Whenever you are attacked this turn, apply !M! gambler:Ante back. NL gambler:Showdown: Apply (1/2) Vulnerable to ALL enemies."
+  },
+  "gambler:S3": {
+    "NAME": "3 of Spades",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL gambler:Showdown: Gain (1/2) Strength."
+  },
+  "gambler:H4": {
+    "NAME": "4 of Hearts",
+    "DESCRIPTION": "Deal !D! damage !M! times. NL gambler:Showdown: Apply (1/2) Vulnerable to ALL enemies."
+  },
+  "gambler:D4": {
+    "NAME": "4 of Diamonds",
+    "DESCRIPTION": "Costs !GMB_GC! Gold. NL Deal !D! damage. NL gambler:Showdown: Apply (1/2) Weak to ALL enemies."
+  },
+  "gambler:C4": {
+    "NAME": "4 of Clubs",
+    "DESCRIPTION": "Apply !M! gambler:Ante. NL gambler:Showdown: Apply (1/2) Vulnerable to ALL enemies."
+  },
+  "gambler:S4": {
+    "NAME": "4 of Spades",
+    "DESCRIPTION": "Gain !B! Block. NL Draw cards equal to your [E]. NL gambler:Showdown: Apply (1/2) Weak to ALL enemies."
+  },
+  "gambler:H5": {
+    "NAME": "5 of Hearts",
+    "DESCRIPTION": "Deal !D! damage X times. NL gambler:Showdown: Apply (1/2) Vulnerable to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times. NL gambler:Showdown: Apply (1/2) Vulnerable to ALL enemies."
+  },
+  "gambler:D5": {
+    "NAME": "5 of Diamonds",
+    "DESCRIPTION": "Gain !M! Gold. NL gambler:Showdown: Apply (1/2) Weak to ALL enemies. NL Exhaust."
+  },
+  "gambler:C5": {
+    "NAME": "5 of Clubs",
+    "DESCRIPTION": "Deal !D! damage and apply !M! gambler:Ante to a random enemy twice. NL gambler:Showdown: Apply (1/2) Vulnerable to ALL enemies."
+  },
+  "gambler:S5": {
+    "NAME": "5 of Spades",
+    "DESCRIPTION": "Gain !B! Block. NL gambler:Showdown: Gain (1/2) Strength."
+  },
+  "gambler:H6": {
+    "NAME": "6 of Hearts",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL gambler:Showdown: Apply (1/2) Weak and Vulnerable to ALL enemies."
+  },
+  "gambler:D6": {
+    "NAME": "6 of Diamonds",
+    "DESCRIPTION": "Costs !GMB_GC! Gold. NL Deal !D! damage !M! times. NL gambler:Showdown: Apply (1/2) Weak and Vulnerable to ALL enemies."
+  },
+  "gambler:C6": {
+    "NAME": "6 of Clubs",
+    "DESCRIPTION": "Gain !B! Block. NL gambler:Showdown: Apply (1/2) Weak and Vulnerable to ALL enemies."
+  },
+  "gambler:S6": {
+    "NAME": "6 of Spades",
+    "DESCRIPTION": "Draw !M! cards and reduce their cost by 1 this turn. NL gambler:Showdown: Apply (1/2) Weak and Vulnerable to ALL enemies."
+  },
+  "gambler:H7": {
+    "NAME": "7 of Hearts",
+    "DESCRIPTION": "Deal !D! damage. NL Apply gambler:Ante equal to unblocked damage dealt. NL gambler:Showdown: Gain (1/2) Strength."
+  },
+  "gambler:D7": {
+    "NAME": "7 of Diamonds",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL gambler:Showdown: Gain (1/2) Strength."
+  },
+  "gambler:C7": {
+    "NAME": "7 of Clubs",
+    "DESCRIPTION": "Apply !M! gambler:Ante to ALL enemies. NL gambler:Showdown: Gain (1/2) Dexterity."
+  },
+  "gambler:S7": {
+    "NAME": "7 of Spades",
+    "DESCRIPTION": "Gain !B! Block for each Skill played this turn. NL gambler:Showdown: Gain (1/2) Dexterity.",
+    "EXTENDED_DESCRIPTION": [
+      "Gain !B! Block for each Skill played this turn. NL (",
+      " Skill played.) NL gambler:Showdown: Gain (1/2) Dexterity.",
+      " Skills played.) NL gambler:Showdown: Gain (1/2) Dexterity."
+    ]
+  },
+  "gambler:H8": {
+    "NAME": "8 of Hearts",
+    "DESCRIPTION": "Draw !M! cards. NL Retain your hand this turn. NL gambler:Showdown: Gain (1/2) Strength."
+  },
+  "gambler:D8": {
+    "NAME": "8 of Diamonds",
+    "DESCRIPTION": "Costs !GMB_GC! Gold. NL Deal !D! damage to a random enemy twice. NL gambler:Showdown: Gain (1/2) Strength."
+  },
+  "gambler:C8": {
+    "NAME": "8 of Clubs",
+    "DESCRIPTION": "Double the enemy's gambler:Ante. NL gambler:Showdown: Gain (1/2) Dexterity.",
+    "UPGRADE_DESCRIPTION": "Triple the enemy's gambler:Ante. NL gambler:Showdown: Gain (1/2) Dexterity."
+  },
+  "gambler:S8": {
+    "NAME": "8 of Spades",
+    "DESCRIPTION": "Next turn, draw !M! additional cards. NL gambler:Showdown: Gain (1/2) Dexterity."
+  },
+  "gambler:H9": {
+    "NAME": "9 of Hearts",
+    "DESCRIPTION": "Deal !D! damage. NL Deals twice as much if the enemy has Block. NL gambler:Showdown: Gain 5 Gold."
+  },
+  "gambler:D9": {
+    "NAME": "9 of Diamonds",
+    "DESCRIPTION": "Deal !D! damage. NL Put a card from your draw pile into your gambler:Hand. NL gambler:Showdown: Gain 5 Gold."
+  },
+  "gambler:C9": {
+    "NAME": "9 of Clubs",
+    "DESCRIPTION": "Deal !D! damage. NL Deals additional damage equal to the enemy's gambler:Ante. NL gambler:Showdown: Gain 5 Gold."
+  },
+  "gambler:S9": {
+    "NAME": "9 of Spades",
+    "DESCRIPTION": "Draw a card. NL gambler:Showdown: Gain 5 Gold. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL gambler:Showdown: Gain 5 Gold. NL Exhaust."
+  },
+  "gambler:H10": {
+    "NAME": "10 of Hearts",
+    "DESCRIPTION": "Gain !M! Strength when you play your gambler:Hand while it costs 0. NL gambler:Showdown: Gain (1/2) Strength.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Gain !M! Strength when you play your gambler:Hand while it costs 0. NL gambler:Showdown: Gain (1/2) Strength."
+  },
+  "gambler:D10": {
+    "NAME": "10 of Diamonds",
+    "DESCRIPTION": "At the start of each turn, change the suit of up to 1 card in your gambler:Hand. NL gambler:Showdown: Gain 5 Gold.",
+    "UPGRADE_DESCRIPTION": "At the start of each turn, change the suit of up to 1 card in your gambler:Hand. NL gambler:Showdown: Gain 10 Gold."
+  },
+  "gambler:C10": {
+    "NAME": "10 of Clubs",
+    "DESCRIPTION": "Whenever you apply gambler:Ante, apply !M! more. NL gambler:Showdown: Apply 3 gambler:Ante to ALL enemies."
+  },
+  "gambler:S10": {
+    "NAME": "10 of Spades",
+    "DESCRIPTION": "At the start of each turn, change the value of up to 1 card in your gambler:Hand. NL gambler:Showdown: Gain (1/2) Dexterity."
+  },
+  "gambler:H11": {
+    "NAME": "Jack of Hearts",
+    "DESCRIPTION": "Costs !GMB_GC! Gold. NL Whenever you gain or lose Gold, gain !M! Block. NL gambler:Showdown: Gain 5 Gold."
+  },
+  "gambler:D11": {
+    "NAME": "Jack of Diamonds",
+    "DESCRIPTION": "Costs !GMB_GC! Gold. NL Cards cost 50% less Gold to play. NL gambler:Showdown: Gain 5 Gold."
+  },
+  "gambler:C11": {
+    "NAME": "Jack of Clubs",
+    "DESCRIPTION": "Costs !GMB_GC! Gold. NL Gain !B! Block. NL gambler:Showdown: Gain 5 Gold."
+  },
+  "gambler:S11": {
+    "NAME": "Jack of Spades",
+    "DESCRIPTION": "Costs !GMB_GC! Gold. NL Gain 1 Intangible. NL gambler:Showdown: Gain 5 Gold."
+  },
+  "gambler:H12": {
+    "NAME": "Queen of Hearts",
+    "DESCRIPTION": "Costs !GMB_GC! Gold. NL Deal damage equal to X/15 of your Gold to ALL enemies. NL gambler:Showdown: Gain [E].",
+    "UPGRADE_DESCRIPTION": "Costs !GMB_GC! Gold. NL Deal damage equal to X/12 of your Gold to ALL enemies. NL gambler:Showdown: Gain [E].",
+    "EXTENDED_DESCRIPTION": [
+      "Costs !GMB_GC! Gold. NL Deal damage equal to X/15 of your Gold to ALL enemies. NL (Deals !D! damage.) NL gambler:Showdown: Gain [E].",
+      "Costs !GMB_GC! Gold. NL Deal damage equal to X/12 of your Gold to ALL enemies. NL (Deals !D! damage.) NL gambler:Showdown: Gain [E]."
+    ]
+  },
+  "gambler:D12": {
+    "NAME": "Queen of Diamonds",
+    "DESCRIPTION": "Gain X Gold at the start of your next !M! turns. NL gambler:Showdown: Gain [E]. NL Exhaust."
+  },
+  "gambler:C12": {
+    "NAME": "Queen of Clubs",
+    "DESCRIPTION": "Gain Block equal to X/20 of your Gold. NL gambler:Showdown: Gain [E].",
+    "UPGRADE_DESCRIPTION": "Gain Block equal to X/16 of your Gold. NL gambler:Showdown: Gain [E].",
+    "EXTENDED_DESCRIPTION": [
+      "Gain Block equal to X/20 of your Gold. NL (Gain !B! Block.) NL gambler:Showdown: Gain [E].",
+      "Gain Block equal to X/16 of your Gold. NL (Gain !B! Block.) NL gambler:Showdown: Gain [E]."
+    ]
+  },
+  "gambler:S12": {
+    "NAME": "Queen of Spades",
+    "DESCRIPTION": "Add a copy of this card to your next X gambler:Hands. NL gambler:Showdown: Gain [E]. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add a copy of this card to your next X+1 gambler:Hands. NL gambler:Showdown: Gain [E]. NL Exhaust."
+  },
+  "gambler:H13": {
+    "NAME": "King of Hearts",
+    "DESCRIPTION": "Deal damage equal to the enemy's Ante X times. NL gambler:Showdown: Gain (1/2) Strength.",
+    "UPGRADE_DESCRIPTION": "Deal damage equal to the enemy's Ante X+1 times. NL gambler:Showdown: Gain (1/2) Strength.",
+    "EXTENDED_DESCRIPTION": [
+      "(Deal !D! damage X times.) NL Deal damage equal to the enemy's Ante X times. NL gambler:Showdown: Gain (1/2) Strength.",
+      "(Deal !D! damage X+1 times.) NL Deal damage equal to the enemy's Ante X+1 times. NL gambler:Showdown: Gain (1/2) Strength."
+    ]
+  },
+  "gambler:D13": {
+    "NAME": "King of Diamonds",
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, gain Gold equal to the gambler:Hand's damage."
+  },
+  "gambler:C13": {
+    "NAME": "King of Clubs",
+    "DESCRIPTION": "Gain [E] [E] for each enemy with gambler:Ante. NL gambler:Showdown: Gain (1/2) Dexterity. NL Exhaust."
+  },
+  "gambler:S13": {
+    "NAME": "King of Spades",
+    "DESCRIPTION": "gambler:Showdown: Draw !M! cards."
+  },
+  "gambler:H1": {
+    "NAME": "Ace of Hearts",
+    "DESCRIPTION": "The effects of your cost X cards are increased by X.",
+    "UPGRADE_DESCRIPTION": "The effects of your cost X cards are increased by X+1."
+  },
+  "gambler:D1": {
+    "NAME": "Ace of Diamonds",
+    "DESCRIPTION": "Costs !GMB_GC! Gold. NL Choose one: Gain !D! Strength, !B! Dexterity, or heal !M! HP."
+  },
+  "gambler:C1": {
+    "NAME": "Ace of Clubs",
+    "DESCRIPTION": "Your gambler:Hand requires !M! less card to cost 0.",
+    "UPGRADE_DESCRIPTION": "Your gambler:Hand requires !M! less cards to cost 0."
+  },
+  "gambler:S1": {
+    "NAME": "Ace of Spades",
+    "DESCRIPTION": "gambler:Showdown: Deals twice as much damage."
+  },
+  "gambler:LotteryTicket": {
+    "NAME": "Lottery Ticket",
+    "DESCRIPTION": "Gain an X/12 chance for a random relic reward at the end of combat.",
+    "UPGRADE_DESCRIPTION": "Gain an X/10 chance for a random relic reward at the end of combat."
+  },
+  "gambler:CopyMachine": {
+    "NAME": "Copy Machine",
+    "DESCRIPTION": "Choose up to !M! cards in your deck. NL Add a copy of each to your draw pile. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Choose ",
+      " cards to copy."
+    ]
+  },
+  "gambler:Health": {
+    "NAME": "Health",
+    "DESCRIPTION": "Heal !M! HP."
+  },
+  "gambler:Power": {
+    "NAME": "Power",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "gambler:Safety": {
+    "NAME": "Safety",
+    "DESCRIPTION": "Gain !M! Dexterity."
+  }
+}

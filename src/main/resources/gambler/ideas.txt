@@ -1,0 +1,11 @@
+52 cards.
+
+Playing a playing card puts it into a "hand".
+A card is generated based on your "hand", which you can play like any other card.
+
+The cards in your hand are consumed by this?
+Or should the generated card be a one time thing and the playing cards are simply discarded?
+
+Playing cards have effects of their own so that they're not just "do nothing"?
+
+The generated card doesn't *require* 5 cards?

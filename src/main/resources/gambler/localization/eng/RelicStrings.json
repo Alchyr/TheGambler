@@ -1,0 +1,63 @@
+{
+  "gambler:Die": {
+    "NAME": "Die",
+    "FLAVOR": "No tricks here. Definitely not.",
+    "DESCRIPTIONS": [
+      "After each combat, you may roll the die.",
+      "Results",
+      "#r1: Lose #b1 Max HP. NL #r2: Lose #b2 HP. NL #g3: Gain #b15 #yGold. NL #g4: Heal #b4 HP. NL #g5: Upgrade a random card. NL #g6: Gain #b3 Max HP."
+    ]
+  },
+  "gambler:LoadedDie": {
+    "NAME": "Loaded Die",
+    "FLAVOR": "There are absolutely tricks here.",
+    "DESCRIPTIONS": [
+      "Replaces #yDie. After each combat, you may roll the die.",
+      "Results",
+      "#g1: Next combat, gain [E] at the start of your turn. NL #g2: Draw #b3 additional cards at the start of the next combat. NL #g3: Gain #b30 #yGold. NL #g4: Heal #b12 HP. NL #g5: Upgrade a card. NL #g6: Gain #b6 Max HP."
+    ]
+  },
+  "gambler:Blackjack": {
+    "NAME": "Blackjack",
+    "FLAVOR": "It's really just luck. But that doesn't mean you can't take advantage of it.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b21 cards, gain [E] [E] ."
+    ]
+  },
+  "gambler:FakeDiamond": {
+    "NAME": "Fake Diamond",
+    "FLAVOR": "Polish it enough and maybe you'll forget that it's fake.",
+    "DESCRIPTIONS": [
+      "Right click at a shop to sell for #b",
+      " #yGold. Increase this amount by #b50 whenever you pass a shop."
+    ]
+  },
+  "gambler:PokerChip": {
+    "NAME": "Poker Chip",
+    "FLAVOR": "A bit of money always does help things go your way.",
+    "DESCRIPTIONS": [
+      "You may reroll your #yDie for a different result once each combat."
+    ]
+  },
+  "gambler:LuckyCoin": {
+    "NAME": "Lucky Coin",
+    "FLAVOR": "It probably doesn't do anything... but it can't hurt, right?",
+    "DESCRIPTIONS": [
+      "Whenever you play your #yHand at cost #b0, gain [E] ."
+    ]
+  },
+  "gambler:StudyGuide": {
+    "NAME": "Study Guide",
+    "FLAVOR": "What dark secrets could be within? Let's take a peek... Blasphemous! It's calculus.",
+    "DESCRIPTIONS": [
+      "You can now gain #yDexterity at Rest Sites (up to 3 times)."
+    ]
+  },
+  "gambler:PotionSeller": {
+    "NAME": "Potion Seller",
+    "FLAVOR": "My potions are too strong for you, traveler. You need a seller that sells weaker potions.",
+    "DESCRIPTIONS": [
+      "Whenever you discard a potion other than at a shop, gain #b70 #yGold."
+    ]
+  }
+}

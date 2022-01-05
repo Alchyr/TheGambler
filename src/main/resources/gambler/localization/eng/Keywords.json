@@ -1,0 +1,25 @@
+[
+  {
+    "PROPER_NAME": "Hand",
+    "NAMES": [
+      "hand",
+      "hands",
+      "hand's"
+    ],
+    "DESCRIPTION": "The #yHand consists of up to 5 cards. You can play your #yHand to deal damage to ALL enemies based on the value of the #yHand."
+  },
+  {
+    "PROPER_NAME": "Showdown",
+    "NAMES": [
+      "showdown"
+    ],
+    "DESCRIPTION": "This effect is added when you play your #yHand. Partial effects do nothing."
+  },
+  {
+    "PROPER_NAME": "Ante",
+    "NAMES": [
+      "ante"
+    ],
+    "DESCRIPTION": "Creatures with Ante lose HP whenever you play your #yHand."
+  }
+]

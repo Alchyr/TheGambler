@@ -1,0 +1,101 @@
+{
+  "gambler:Ante": {
+    "NAME": "Ante",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yHand, loses #b",
+      " HP."
+    ]
+  },
+  "gambler:C3Power": {
+    "NAME": "3 of Clubs",
+    "DESCRIPTIONS": [
+      "When attacked, apply #b",
+      " #yAnte back."
+    ]
+  },
+  "gambler:H10Power": {
+    "NAME": "10 of Hearts",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yStrength when you play your #yHand while it costs #b0."
+    ]
+  },
+  "gambler:D10Power": {
+    "NAME": "10 of Diamonds",
+    "DESCRIPTIONS": [
+      "At the start of your turn, change the suit of up to #b",
+      " card in your #yHand.",
+      " cards in your #yHand."
+    ]
+  },
+  "gambler:C10Power": {
+    "NAME": "10 of Clubs",
+    "DESCRIPTIONS": [
+      "Whenever you apply #yAnte, apply #b",
+      " more."
+    ]
+  },
+  "gambler:S10Power": {
+    "NAME": "10 of Spades",
+    "DESCRIPTIONS": [
+      "At the start of your turn, change the value of up to #b",
+      " card in your #yHand.",
+      " cards in your #yHand."
+    ]
+  },
+  "gambler:JHPower": {
+    "NAME": "Jack of Hearts",
+    "DESCRIPTIONS": [
+      "Whenever you gain or lose #yGold, gain #b",
+      " #yBlock."
+    ]
+  },
+  "gambler:JDPower": {
+    "NAME": "Jack of Diamonds",
+    "DESCRIPTIONS": [
+      "Cards cost #b",
+      "% less #yGold to play."
+    ]
+  },
+  "gambler:QDPower": {
+    "NAME": "Queen of Diamonds",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yGold at the start of your next #b",
+      " #yGold at the start of your next turn.",
+      " turns."
+    ]
+  },
+  "gambler:QSPower": {
+    "NAME": "Queen of Spades",
+    "DESCRIPTIONS": [
+      "Add a ",
+      " to your next #yHand.",
+      " to your next #b",
+      " #yHands."
+    ]
+  },
+  "gambler:AHPower": {
+    "NAME": "Ace of Hearts",
+    "DESCRIPTIONS": [
+      "The effects of your cost X cards are increased by #b",
+      "."
+    ]
+  },
+  "gambler:ACPower": {
+    "NAME": "Ace of Clubs",
+    "DESCRIPTIONS": [
+      "Your #yHand requires #b",
+      " less card to cost 0.",
+      " less cards to cost 0.",
+      "Your #yHand costs 0."
+    ]
+  },
+  "gambler:LotteryTicketPower": {
+    "NAME": "Lottery Ticket",
+    "DESCRIPTIONS": [
+      "#b",
+      "% chance for a random relic reward at the end of combat."
+    ]
+  }
+}
